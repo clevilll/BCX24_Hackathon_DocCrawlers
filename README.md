@@ -4,15 +4,6 @@
 ## 🎥 YT Video
 BCX2024: https://youtu.be/oNPZqtJ924s?si=B54-bC-xjhdA6YTr
 
-
-Cyper Attack Simulator (BSI Challenge 2) Simulating an Environment of Hacker, Victim Server and Defender, with the goal to educate Defenders. Also offering a real time overview/Dashboard for Manager
-
-
-## 🚨  Challenge Overview:  (The Holy Grail of Industrial CoPilot)
-GH repo + Data: https://github.com/clevilll/BD_HackChallenge
-
-
----
 # 🚀 DocCrawler
 
 > AI-powered document intelligence and semantic retrieval platform for Industrial CoPilots.
@@ -20,6 +11,41 @@ GH repo + Data: https://github.com/clevilll/BD_HackChallenge
 ![Hackathon](https://img.shields.io/badge/Hackathon-The%20Holy%20Grail%20of%20Industrial%20CoPilot-blue)
 ![Status](https://img.shields.io/badge/Status-Prototype-success)
 ![AI](https://img.shields.io/badge/AI-RAG%20%7C%20Semantic%20Search-orange)
+
+## 🌍 Bosch ConnectedExperience 2024 (BCX24)
+
+> - 🧠 What: Bosch ConnectedExperience 2024 – AI and IoT Hackathon
+> - 📍 Where: STATION-Berlin
+> - 📅 When: February 26-28, 2024
+>
+> Why BCX24?
+>
+> BCX attracts brilliant minds from over 45 countries, coming together to push the boundaries of innovation. BCX24 is your opportunity to dive into two captivating hack tracks, featuring the latest in Generative AI, metaverse, software-defined vehicles, and an array of connectable devices provided by Bosch and ecosystem partners.
+>
+> Our hack tracks unveiled
+>
+> - #1 `digital.industry`:
+>   Revolutionize the manufacturing sector by harnessing automation, connectivity, and visualization technologies to optimize production processes and craft inventive business solutions.
+>
+> - #2 `digital.auto & mobility`:
+>   Pioneer solutions for the automotive sector, focusing on personalized driver experiences, virtual vehicle applications, and the thrill of offroad vehicle control.
+>
+> Your BCX24 ticket awaits
+>
+> As a valued member of our community, we're delighted to offer you to join BCX24 skipping the usual application process. Simply use the discount code…
+>
+> - `BCX_digital.industry` to join hack track #1
+> - `BCX_digital.auto` to join hack track #2
+
+---
+
+
+## 🏭 Hack Tracks
+
+| Track #1 – `digital.industry`                                                 | Track #2 – `digital.auto & mobility`                                                 |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/5f68c118-44eb-42f5-86bd-4e64cb355638" alt="digital.industry" width="450"/>              | <img src="https://github.com/user-attachments/assets/0ebb872d-b119-44b1-a9f0-92f60b2c7211" alt="digital.auto & mobility" width="450"/>              |
+| Industrial automation, connectivity, and AI-driven manufacturing innovation | Personalized mobility, virtual vehicle experiences, and smart automotive solutions |
 
 ---
 
@@ -35,7 +61,6 @@ GH repo + Data: https://github.com/clevilll/BD_HackChallenge
 * [Vision](#-vision)
 * [Tech Stack](#-tech-stack-example)
 * [Conclusion](#-conclusion)
-* [License](#-license)
 
 ---
 
@@ -296,7 +321,6 @@ DocCrawler represents our attempt to tackle one of the core problems of industri
 > Transforming fragmented enterprise documentation into actionable, AI-accessible knowledge.
 
 By combining intelligent crawling, semantic retrieval, and AI copilots, we aim to enable smarter and more efficient enterprise operations.
-
 
 ---
 
